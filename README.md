@@ -11,7 +11,7 @@ Welcome to **MiniGameHub** – a fun-packed collection of classic and modern min
 - Easy navigation to all available games with a single click.
 
 ### 🕹️ Multiple Mini-Games
-- **Tic Tac Toe** – A timeless 2-player strategy game.
+- **Tic Tac Toe** – A timeless 2-player strategy game. 
 - **Snake & Ladder** – Classic board game with dice rolling fun.
 - **XO / 3D Tic Tac Toe** – A twist on the traditional grid game.
 - **Memory Match** – Test your focus by matching hidden cards.
